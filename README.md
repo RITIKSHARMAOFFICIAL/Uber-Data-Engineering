@@ -11,7 +11,7 @@ The objective of this project is to analyze Uber trip data using a variety of to
 2. How many trips have been made based on passenger count?
 3. How does the average fare amount vary across different hours of the day?
 
-https://github.com/RITIKSHARMAOFFICIAL/Uber-Data-Engineering/blob/main/uber%20(1).mp4
+
 
 ## Dataset Used
 
